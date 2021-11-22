@@ -2,7 +2,9 @@
 Documentacion Hackathon 2021
 
 
-El objetivo del reto es identificar, mediante el random forest, el tipo de erupcion volcanica las cuales se califican de la siguiente manera:
+El dataset esta compuesto por 6 columnas que son los parámetros medidos por los diferentes sensores. Estos corresponden a las vibraciones detectadas en ciertos puntos de la ladera del volcán.
+
+El objetivo del reto es identificar, mediante el random forest, el tipo de erupción volcánica las cuales se califican de la siguiente manera:
 
 0 = Pliniana: Se caracteriza por su alto grado de explosividad, con manifestaciones muy violentas en las cuales se expulsan grandes volúmenes de gas volcánico, fragmentos y cenizas.
 
